@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a91117d2bdee986657b5d8da497e3794",
-"assets/assets/346719731_1259419505003542_5951429457222703575_n.gif": "c284424724c5818b13be5937d2a74099",
+  "assets/AssetManifest.json": "adbb254471b22552031730a26c4492b5",
+"assets/assets/fond.gif": "c284424724c5818b13be5937d2a74099",
 "assets/assets/home/athle.jpeg": "72b02fa7219669ee06308c6f9031ccd3",
 "assets/assets/home/athle_2.jpeg": "5ea45e703cfb2d9666a559ed65179103",
 "assets/assets/home/bad.jpeg": "b44dedfcbc3fb4383b1c306cb609aec1",
@@ -73,9 +73,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3138696a417ce3ae4a61972050ef7dce",
-"/": "3138696a417ce3ae4a61972050ef7dce",
-"main.dart.js": "66631b3ea290c9e5dc71dcbebbab925a",
+"index.html": "98926d91ab2d2d50358e956cc33b9d62",
+"/": "98926d91ab2d2d50358e956cc33b9d62",
+"main.dart.js": "b076d608f55f94f744b723a3e360844d",
 "manifest.json": "cac34bfaffa96077d242019d88c59671",
 "version.json": "396de5a4c2aa47a16a8dfcf623c12daa"
 };
